@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Trabajo-en-Clase-Numeros';
+  isCollapsed = false;
 }
